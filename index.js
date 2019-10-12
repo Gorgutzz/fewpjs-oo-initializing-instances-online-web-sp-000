@@ -1,4 +1,4 @@
 // Write your code here
-class Bugreakfast {
+class Breakfast {
 
 }
